@@ -13,6 +13,14 @@ ul.navbar {
   background-color: #333;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
 li {
   float: left;
 }
@@ -33,21 +41,23 @@ li a:hover:not(.active) {
   background-color: #04AA6D;
 }
 
+
 h1 {
     font-family: Helvetica, Geneva, Arial,
           SunSans-Regular, sans-serif }
 		ul.navbar li {
-    background: white;
+    background: 0;
     margin: 0.5em 0;
     padding: 0.3em;
-    border-right: 1em solid black }
+    border-right: 0 }
     ul.navbar a {
     text-decoration: none }
-    
+
+
 a:link {
     color: blue }
     a:visited {
-    color: purple }
+    color: White }
     
 address {
     margin-top: 1em;
