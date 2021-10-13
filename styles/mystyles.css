@@ -34,7 +34,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color:#00ffd5fa;
+    background-color:#0601ff9f;
 }
 
 .active {
@@ -147,7 +147,7 @@ caption {
   
   /* Add a red background color to navbar links on hover */
   .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: #0601ff9f;
   }
   
   /* Dropdown content (hidden by default) */
